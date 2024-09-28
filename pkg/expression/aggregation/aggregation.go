@@ -14,7 +14,7 @@
 package aggregation
 
 import (
-	"github.com/secretflow/scql/pkg/parser/ast"
+	"github.com/zcb/pkg/parser/ast"
 )
 
 // IsAllFirstRow checks whether functions in `aggFuncs` are all FirstRow.
